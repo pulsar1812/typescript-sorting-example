@@ -5,6 +5,7 @@
 //   swap(leftIndex: number, rightIndex: number): void;
 // }
 Object.defineProperty(exports, "__esModule", { value: true });
+exports.Sorter = void 0;
 var Sorter = /** @class */ (function () {
     function Sorter() {
     }
